@@ -34,10 +34,10 @@
 ![Southern Hemisphere: Latitude vs Max Temperature (F)](WeatherPy/output_data/southern_L_M_regression.png)
 
 ### Southern Hemisphere: Latitude vs Humidity (%)
-![Southern Hemisphere: Latitude vs Humidity](WeatherPy/output_data/southern_L_M_regression.png)
+![Southern Hemisphere: Latitude vs Humidity](WeatherPy/output_data/southern_L_H_regression.png)
 
 ### Southern Hemisphere: Latitude vs Cloud Cover
-![Southern Hemisphere: Latitude vs Cloud Cover](WeatherPy/output_data/southern_L_M_regression.png)
+![Southern Hemisphere: Latitude vs Cloud Cover](WeatherPy/output_data/southern_L_C_regression.png)
 
 ### Southern Hemisphere: Latitude vs Wind Speed (mph)
-![Southern Hemisphere: Latitude vs Wind Speed](WeatherPy/output_data/southern_L_M_regression.png)
+![Southern Hemisphere: Latitude vs Wind Speed](WeatherPy/output_data/southern_L_W_regression.png)
